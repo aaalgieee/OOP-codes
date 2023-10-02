@@ -36,6 +36,6 @@ class Employee extends Person {
     }
 
     public void computeSalary() {
-        // This method is implemented by subclasses
+        
     }
 }
