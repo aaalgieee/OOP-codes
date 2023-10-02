@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Company",
+            "request": "launch",
+            "mainClass": "AT1.Company",
+            "projectName": "OOP_558a7764"
+        },
+        {
+            "type": "java",
             "name": "shapeImplementation",
             "request": "launch",
             "mainClass": "polymorph.shapeImplementation",
