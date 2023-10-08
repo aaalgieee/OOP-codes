@@ -61,5 +61,6 @@ package AT1;
             System.out.println("Salary: " + secretary.getBasicSalary());
 
             scanner.close();
+            System.out.println("\nProgram Terminated.");
         }
     }
